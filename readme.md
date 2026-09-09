@@ -1,8 +1,11 @@
 # Intelligent System for Identifying Youth Mental Health Issues on Social Media
 
-Bachelor's Thesis (TFG) — Data Engineering and Systems
+Bachelor's Thesis in Data Engineering and Systems
+
 **Author:** Emma Nájera Ríos
+
 **Supervisor:** María Luisa Martín Ruíz
+
 **Department:** Telematics and Electronics Engineering
 
 ## Overview
