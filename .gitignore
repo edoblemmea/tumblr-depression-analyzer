@@ -3,8 +3,6 @@ venv/
 .venv/
 env/
 
-*scratch_cells.txt
-*memoria.md
 tumblr-depression-analyzer/backend/ml/modelo_multietiqueta
 
 *.bin
