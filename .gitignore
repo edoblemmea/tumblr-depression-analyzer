@@ -1,0 +1,22 @@
+# Entorno virtual
+venv/
+.venv/
+env/
+
+*scratch_cells.txt
+*memoria.md
+tumblr-depression-analyzer/backend/ml/modelo_multietiqueta
+
+*.bin
+
+# Por si acaso, otros pesos comunes
+*.pt
+*.pth
+*.safetensors
+
+
+.env
+*.env
+
+__pycache__/
+*.pyc
