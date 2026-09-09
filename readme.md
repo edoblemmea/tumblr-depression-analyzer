@@ -3,9 +3,7 @@
 Bachelor's Thesis in Data Engineering and Systems
 
 **Author:** Emma Nájera Ríos
-
 **Supervisor:** María Luisa Martín Ruíz
-
 **Department:** Telematics and Electronics Engineering
 
 ## Overview
